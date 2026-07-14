@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-uj3tic.kujang138.space/sitemap.xml
